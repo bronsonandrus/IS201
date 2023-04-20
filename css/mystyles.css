@@ -1,0 +1,25 @@
+ul{
+    font-size: 30px;
+}
+#clip{
+    position:absolute;
+    clip: rect(0,4000px,800px,0);
+
+}
+img{
+width: 200px;
+
+}
+
+body{
+    background-color: whitesmoke;
+    font-family:sans-serif;
+    border: 5px solid black;
+    margin: 20px;
+    padding:30px;
+    text-align:center;
+}
+
+.text {
+    color: black!important;
+}
